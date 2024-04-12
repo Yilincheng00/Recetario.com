@@ -34,17 +34,74 @@ background-color: green;
          </ul>
 </div>
 
-<div class="post"> 
-<h3>Comida Argentina</h3>
-<img src="https://www.ecos-online.de/sites/ecos.spotlight-verlag.de/files/styles/mode_content/public/2023-03/empanada%20argentinaes.IRZEITPROD_E9LVU.jpg?h=3499dee4&itok=8_01i8Zm" width="550" height="330">
-<br/>
-<a target=" blank" href="Empanada Argentina.html">Empanada de carne</a>
-</div>
-<div class="post"> 
-<h3>Comida de HongKong</h3>
-<img src="https://www.healthyd.com/uploads/media/2021/08/20210831_shutter_fishball_CV.jpg" width="550" height="330">
-<br/>
-<a target=" blank" href="Bolas_de_pescado.html">Bola de pescado</a>
+<div class="post">
+<table>
+<tr>
+<td><strong>Ingredientes</strong></td>
+<td><strong>Cantidad</strong></td>
+</tr>
+<tr>
+<td>Tapa de empanada</td>
+<td>12</td>
+</tr>
+<tr>
+<td>Carne Picada</td>
+<td>600 gr</td>
+</tr>
+<tr>
+<td>Cebolla</td>
+<td>600 gr</td>
+</tr>
+<tr>
+<td>Huevos</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Aceitunas</td>
+<td>12</td>
+</tr>
+<tr>
+<td>Comino</td>
+<td>1 cucharadas</td>
+</tr>
+<tr>
+<td>Pimenton</td>
+<td>1 cucharada sopera</td>
+</tr>
+<tr>
+<td>aji molido</td>
+<td>1/2 cucharadas</td>
+</tr>
+<tr>
+<td>Hoja de laurel</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Uva pasas</td>
+<td>30 gr</td>
+</tr>
+<tr>
+<td>Mantequilla</td>
+<td>30 gr</td>
+</tr>
+<tr>
+<td>Aceite</td>
+<td>2 cucharadas</td>
+</tr>
+<tr>
+<td>Pimiento</td>
+<td>1/2</td>
+</tr>
+<tr>
+<td>Cebolla Verde</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Leche</td>
+<td> 3/2 cucharada</td>
+</tr>
+<style> table{ border-collapse: collapse; } td{ border:1px solid #000; padding:25px; background-color:#B2FFFF; } </style>
+</a>
 </div>
  
 <div class="post"> 
